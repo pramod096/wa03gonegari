@@ -1,3 +1,3 @@
 ﻿# wa03gonegari
 
-WA Assignmeny 9. Working on heroku.
+WA Assignment 9. Working on heroku.
